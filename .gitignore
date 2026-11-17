@@ -1,0 +1,10 @@
+# Executáveis
+main
+a.out
+*.out
+
+# Arquivos objeto
+*.o
+
+# Arquivos de depuração
+*.gch
